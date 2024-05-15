@@ -9,6 +9,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+
 # AWS User-specific
 .idea/**/aws.xml
 
@@ -43,6 +44,7 @@
 
 # CMake
 cmake-build-*/
+target/
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
